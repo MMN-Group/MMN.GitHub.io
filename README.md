@@ -1,7 +1,7 @@
 # ＨΛＮΛ™
 <img src="https://telegra.ph/file/8834f67339c02cfec28cd.jpg" alt="HANABOT" border="0" height="410" width="400" align="center" />
 
-## Version : 3.0[Beta]
+Beta Version : 3.0
 
 ### More on telegram
 [![telegram badge](https://img.shields.io/badge/Message-MissHana_Msbot-30302f?style=flat&logo=telegram)](https://telegram.me/MissHana_Msbot)
