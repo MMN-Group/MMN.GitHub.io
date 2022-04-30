@@ -21,4 +21,3 @@
 - Thanks : [PEAKY-BLINDER-TG](https://github.com/PEAKY-BLINDER-TG)
 - Thanks : [PR0FESS0R-99](https://github.com/PR0FESS0R-99)
 
-<iframe src="https://streamtape.com/e/M93Q21BbPmFm39L/" width="400" height="200" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
