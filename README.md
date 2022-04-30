@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://telegram.me/MissHana_Msbot">
-        <img src="https://telegra.ph/file/8834f67339c02cfec28cd.jpg" alt="HANABOT" border="0" height="410" width="400" alt="Hana Logo">
+        <img src="https://telegra.ph/file/8834f67339c02cfec28cd.jpg" alt="HANABOT" border="1" height="400" width="500" alt="Hana Logo">
     </a>
 </p><b>
 
